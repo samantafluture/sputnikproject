@@ -1,4 +1,5 @@
 sputnikproject
 ==============
 
-Testes para o Sputnik Project http://samantafluture.com/experiments/sputnikproject
+Testes para o Sputnik Project 
+http://samantafluture.com/sputnik/projeto.html
